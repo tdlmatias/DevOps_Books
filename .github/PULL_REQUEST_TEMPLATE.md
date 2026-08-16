@@ -35,8 +35,8 @@ Please fill out this template so we can review your PR quickly.
 - [ ] I've added it as a **link to the official source** where possible (rather
       than uploading a file).
 - [ ] I'm adding **one resource** in this pull request.
-- [ ] I've read the [Contributing Guidelines](../CONTRIBUTING.md) and agree to
-      the [Code of Conduct](../CODE_OF_CONDUCT.md).
+- [ ] I've read the [Contributing Guidelines](https://github.com/tdlmatias/DevOps_Books/blob/main/CONTRIBUTING.md)
+      and agree to the [Code of Conduct](https://github.com/tdlmatias/DevOps_Books/blob/main/CODE_OF_CONDUCT.md).
 
 ## Anything else?
 
