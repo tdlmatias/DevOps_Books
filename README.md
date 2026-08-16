@@ -78,10 +78,23 @@ Full details, examples of acceptable sources, and the review checklist are in
 
 ## 📖 Book List
 
-> The links below point to a mix of files currently in this repository and
-> external sources. We are actively reviewing entries to ensure each one links
-> to a legally distributable copy; see the copyright notice above. To report a
-> problem entry, please [open an issue](../../issues) or a pull request.
+> ### ⚠️ These entries are NOT yet vetted as legally distributable
+>
+> The list below is **inherited from this repository's history** and links to
+> PDF files hosted in the repo. **Many are commercial, copyrighted titles**
+> (O'Reilly, Packt, Wiley, IT Revolution, independent authors) and should be
+> treated as **pending copyright review** — not as cleared, free-to-share
+> resources.
+>
+> For material that is confirmed free to share, see
+> [Recommended free & official resources](#-recommended-free--official-resources)
+> below. New contributions must follow the link-based, legally-clean model
+> described in the [Copyright & Licensing](#️-important-copyright--licensing)
+> section.
+>
+> To report an entry that infringes copyright, please
+> [open an issue](../../issues) — see the [Takedown / DMCA](#-takedown--dmca-notice)
+> section.
 
 ### A
 
