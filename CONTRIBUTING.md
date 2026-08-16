@@ -1,46 +1,102 @@
 # Contributing to DevOps Books
-We love your input! We want to make contributing to this project as easy and transparent as possible, whether it's:
 
-- Proposing new books
-- Reporting a bug
-- Submitting a fix
+Thanks for wanting to help! 🎉 This project is a community reading list for
+DevOps learners, and it grows through contributions like yours. Whether you
+want to add a resource, fix a broken link, or improve the docs — you're
+welcome here.
 
-## We Develop with Github
-We use github to host books, to track issues as well as accept pull requests.
+Please also read our [Code of Conduct](./CODE_OF_CONDUCT.md).
 
-## Guidelines
-Pull requests are the best way to propose new books and propose new feature to the codebase. We actively welcome your pull requests:
+---
 
-1. Fork the repo and create your branch from `main`.
-2. **Add One Book** per pull request.
-3. Pull request should include a short description. 
-4. Issue that pull request!
+## ⚖️ The one rule that matters most: only share what is legal to share
 
-## Any contributions you make will be under the MIT Software License
-In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact the maintainers if that's a concern.
+Most DevOps books are **commercial, copyrighted works**. Uploading or linking to
+a pirated copy of a paid book is copyright infringement — it hurts the authors
+who wrote it, and it puts this project at risk. So the single most important
+contribution rule is:
 
-## Report bugs using Github's [issues](https://github.com/rohitg00/DevOps_Books/issues)
-We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/rohitg00/DevOps_Books/issues); it's that easy!
+> **Only add resources that are legally free to distribute.**
 
-## Write bug reports with detail, background, and screenshots
+**✅ Acceptable resources**
 
-**Great Bug Reports** tend to have:
+* A **link** to the publisher's or author's *official free* copy
+  (e.g. Google's [SRE books](https://sre.google/books/), a publisher's free
+  eBook promotion).
+* Works under an **open license** (Creative Commons, MIT, Apache, etc.) or in
+  the **public domain**.
+* Free copies the **author has explicitly made available** (a link to their
+  site, blog, or GitHub).
+* Original notes, cheat sheets, or guides **you wrote yourself** and want to
+  share under an open license.
 
-- A quick summary and/or background
-- Be specific!
-- What you expected would happen
-- What actually happens
-- Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
+**❌ Not acceptable**
 
-People *love* thorough bug reports. I'm not even kidding.
+* Uploaded PDFs of paid books, or links to shadow-library / piracy sites
+  (Z-Library, LibGen, "retail rip" copies, etc.).
+* Anything you don't have the right to distribute.
 
-## Contributing
+If you're unsure whether a resource is OK to share, **open an issue and ask
+first** — we're happy to help you check.
 
-We love pull requests from everyone. By participating in this project, you
-agree to abide by the [Code Of Conduct](https://github.com/rohitg00/DevOps_Books/blob/main/CODE_OF_CONDUCT.md).
+---
 
+## How to contribute a resource
 
-## License
-By contributing, you agree that your contributions will be licensed under its MIT License.
+1. **Fork** this repository and create a branch from `main`.
+2. **Add one resource per pull request.** This keeps reviews quick and clear.
+3. **Prefer a link over a file.** Add your entry to the appropriate
+   alphabetical section of the [`README.md`](./README.md) book list, in this
+   format:
+
+   ```markdown
+   * [Book or Resource Title](https://link-to-official-free-source)
+   ```
+
+4. **Fill out the pull request checklist** (the template appears automatically)
+   confirming the resource is legal to share and where it came from.
+5. **Open the pull request** with a short description of what you're adding and
+   why it's useful.
+
+### Style tips
+
+* Use the real, human-readable title of the book/resource — not the file name.
+* Put the entry under the correct letter, and keep sections roughly
+  alphabetical.
+* Check that your link actually works before submitting.
+
+---
+
+## Other ways to help
+
+You don't have to add a book to contribute:
+
+* **Report a copyright problem.** If you spot an entry that looks like a
+  pirated copy of a paid book, please
+  [open an issue](../../issues) — see the Takedown notice in the README.
+* **Fix broken or outdated links.**
+* **Improve the documentation** or the organization of the list.
+* **Suggest better free alternatives** to resources we currently link.
+
+---
+
+## Reporting issues
+
+We use [GitHub Issues](../../issues) to track problems and suggestions. A good
+issue includes:
+
+* A clear summary of the problem or idea.
+* The specific entry, file, or link involved.
+* What you expected, and what you found instead.
+
+---
+
+## Licensing of your contribution
+
+By contributing changes to **this repository's own files** (the README,
+contribution docs, scripts), you agree that those contributions are licensed
+under the project's [Apache-2.0 License](./LICENSE). This does **not** transfer
+any rights in third-party books or resources you link to — those remain under
+their own licenses and copyrights.
 
 ## Thank you! ❤️

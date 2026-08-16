@@ -1,100 +1,157 @@
-# DevOps Books owned by various Companies and Writers.
+# 📚 DevOps Books
 
-* This repository is complete Open-Source.
-* I don't own the rights to books, Just sharing the free resource.
-* Anyone wants to contribute, Feel free to submit Pull requests.
+A community-curated reading list for people learning **DevOps** — covering the
+tools and practices that show up on the job every day: containers (Docker,
+Kubernetes, OpenShift), configuration management (Ansible), infrastructure as
+code (Terraform), CI/CD, cloud platforms (AWS, Azure), Nginx, shell scripting,
+Site Reliability Engineering, and more.
 
-Resources are added frequently! ⚡
+The goal is simple: give newcomers and practitioners a single place to find
+good learning material, organized by topic, so nobody has to hunt across a
+dozen sites to get started.
 
-Enjoy!
-## GitAds Sponsored
-[![Sponsored by GitAds](https://gitads.dev/v1/ad-serve?source=rohitg00/devops_books@github)](https://gitads.dev/v1/ad-track?source=rohitg00/devops_books@github)
-
-
-# Open - Source Contribution
-
-* If you want to contribute, This repository is in build. Feel free to do.
-* Help needed for Alignment of books, and Readme.md creation with proper contributing guidelines.
-
-If you like this repo, be sure to ⭐ it.
-
-Please read [`contributing guidelines`](./CONTRIBUTING.md) before submitting new books.
-
---- 
-
-Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](https://twitter.com/ghumare64).
+> ⭐ If this list helps you, please star the repo — it helps other learners
+> find it too.
 
 ---
 
-## Book List
+## ⚖️ Important: Copyright & Licensing
+
+**Please read this before browsing, downloading, or contributing.**
+
+This repository is a *reading list*. Many books about DevOps are published
+commercially by authors and publishers (O'Reilly, Packt, Wiley, Manning, IT
+Revolution, and independent authors), and **those books are protected by
+copyright**. Hosting or redistributing a full copyrighted book without the
+rights holder's permission is copyright infringement — even when it is done for
+free and with good intentions.
+
+Because of that, this project is moving to a **link-based, legally-clean model**:
+
+- ✅ **Do** share links to books that are *legally free to distribute* —
+  official free eBooks from publishers, open-licensed / Creative Commons works,
+  public-domain texts, and copies the author has expressly made available for
+  free.
+- ❌ **Don't** upload or link to pirated copies of paid books (for example,
+  files sourced from shadow-library sites). If you love a book, **buy it** —
+  it's how these authors keep writing.
+
+If you are a copyright holder and believe material in this repository infringes
+your rights, please see the [Takedown / DMCA](#-takedown--dmca-notice) section
+below — we will act promptly.
+
+The `LICENSE` file (Apache-2.0) covers **this repository's own files** (the
+README, contribution docs, and scripts) — it does **not** grant any rights to
+the books themselves, which remain the property of their respective authors and
+publishers.
+
+---
+
+## 🚀 How to use this repo
+
+1. Browse the [Book List](#-book-list) below, grouped alphabetically by topic.
+2. Follow the link to read or download the resource from its source.
+3. Found something great that's legally free to share? See
+   [Contributing](#-contributing).
+
+---
+
+## 🤝 Contributing
+
+Contributions are very welcome — this list is only as good as the community
+that maintains it. To keep the project on the right side of copyright law, we
+ask that new entries be **links to legally distributable resources**, not
+uploads of copyrighted PDFs.
+
+In short:
+
+- Add **one resource per pull request**.
+- Prefer a **link to the official free source** over uploading a file.
+- Confirm the resource is **legal to share** (free/official, open-licensed, or
+  public domain).
+
+Full details, examples of acceptable sources, and the review checklist are in
+[`CONTRIBUTING.md`](./CONTRIBUTING.md). By participating you also agree to our
+[Code of Conduct](./CODE_OF_CONDUCT.md).
+
+---
+
+## 📖 Book List
+
+> The links below point to a mix of files currently in this repository and
+> external sources. We are actively reviewing entries to ensure each one links
+> to a legally distributable copy; see the copyright notice above. To report a
+> problem entry, please [open an issue](../../issues) or a pull request.
 
 ### A
 
-* [Ansible Best Practices](/Ansible%20Best%20Practices.pdf) 
-* [Ansible Configuration Management, 2nd Edition.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Ansible%20Configuration%20Management%2C%202nd%20Edition.pdf)
-* [Ansible for DevOps](/none%202.pdf)
-* [Ansible Works QuickStart.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/AnsibleWorksQuickStart.pdf)
-* [Ansible Playbook Essentials.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Ansible%20Playbook%20Essentials.pdf)
-* [Ansible From Beginner to Pro](https://media-exp1.licdn.com/dms/document/C4D1FAQFeyFFmY5TGlg/feedshare-document-pdf-analyzed/0/1660694861085?e=1661385600&v=beta&t=JeYl2FzTmoW-OOi44ECWnNPB4Q0Ae5ODDH4C-ahTlqk)
-* [Ansible Up and Running.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Ansible_%20Up%20and%20Running.pdf)
-* [Ansible Playbook Creds Practices](/Ansible-playbook-creds.pdf)
-* [Api Driven DevOps](/Api-driven-devops.pdf) 
-* [Application Lifecycle on AWS](/Application%20Lifecycle%20on%20AWS.pdf) 
-* [AWS Associate Solutions Architect Study - ACloud.Guru](https://media-exp1.licdn.com/dms/document/C4D1FAQFSHSI3QdObwQ/feedshare-document-pdf-analyzed/0/1660694867624?e=1661385600&v=beta&t=xL3BbO3tcwckenG6zyF0HSSjGZ-E_HHHmwy4V6SmKpw)
-* [AWS CLI Ebook](/Aws-cli%20ebook.pdf) 
-* [Azure DevOps](/Azure%20DevOps.pdf) 
-* [Azure Fundamentals](/Azure%20Fundamentals.pdf) 
+* [Ansible Best Practices](/Ansible%20Best%20Practices.pdf)
+* [Ansible Configuration Management, 2nd Edition](/Ansible%20Configuration%20Management%2C%202nd%20Edition.pdf)
+* [Ansible Playbook Essentials](/Ansible%20Playbook%20Essentials.pdf)
+* [Ansible Works QuickStart](/AnsibleWorksQuickStart.pdf)
+* [Ansible: Up and Running](/Ansible_%20Up%20and%20Running.pdf)
+* [API-Driven DevOps](/api-driven-devops.pdf)
+* [Application Lifecycle on AWS](/Application%20Lifecycle%20on%20AWS.pdf)
+* [AWS CLI eBook](/aws-cli%20ebook.pdf)
+* [Azure DevOps](/Azure%20DevOps.pdf)
+* [Azure Fundamentals](/Azure%20Fundamentals.pdf)
 
 ### B
 
-* [Borg, omega, kubernetes.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/borg%2C%20omega%2C%20kubernetes.pdf)
-* [Building and Enterprise Cloud with Dummies](/Building%20and%20Enterprise%20Cloud%20with%20Dummies.pdf) 
+* [Borg, Omega, Kubernetes](/borg%2C%20omega%2C%20kubernetes.pdf)
+* [Building an Enterprise Cloud with Dummies](/Building%20and%20Enterprise%20Cloud%20with%20Dummies.pdf)
 
 ### C
 
-* [CKAD Preparation](/CKAD%20preparation.pdf) 
-* [Container-Networking-Docker-Kubernetes.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Container-Networking-Docker-Kubernetes.pdf)
-* [Container with Docker and K8s](/Container%20with%20docker%20and%20k8s.pdf) 
-* [Containers on AWS](/Containers%20on%20AWS.pdf) 
-* [Containers Dummies](/Containers-dummies.pdf) 
-* [CI/CD Project AWS](/CICD%20PROJECT%20ON%20AWS%20.pdf)
+* [CKAD Preparation](/CKAD%20preparation.pdf)
+* [Container Networking: Docker & Kubernetes](/Container-Networking-Docker-Kubernetes.pdf)
+* [Containers with Docker and Kubernetes](/Container%20with%20docker%20and%20k8s.pdf)
+* [Containers on AWS](/Containers%20on%20AWS.pdf)
+* [Containers for Dummies](/containers-dummies.pdf)
+* [CI/CD Project on AWS](/CICD%20PROJECT%20ON%20AWS%20.pdf)
+* [Cloud Native DevOps with Kubernetes](/Cloud%20Native%20Devops%20with%20Kubernetes.pdf)
 
 ### D
 
-* [Deploy on AWS-Gitlab](/Deploy%20on%20AWS-Gitlab.pdf) 
-* [Devops in Practice](/DevOps%20in%20Pratice.pdf) 
-* [Devops Document Vinay Hegde](/devops-document-vinay_hegde.pdf) 
-* [Devops Handbook](/devops-handbook.pdf) 
-* [Devops Tools Guide](/Devops%20Tools%20Guide.pdf)
-* [Docker by Federico](/Docker%20by%20federico.pdf) 
-* [Docker Cheatsheet](https://media-exp1.licdn.com/dms/document/C4D1FAQHa9dsGbKE7mg/feedshare-document-pdf-analyzed/0/1660642662781?e=1661385600&v=beta&t=kqhcnig0jP2RBRm9HNOzyrqXs4wqjyC1IECd9LCOB-E)
-* [Docker-Cookbook.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Docker-Cookbook.pdf)
-* [Docker Deep Dive Zero to Docker in a single book (Nigel Poulton)](https://github.com/rohitg00/DevOps_Books/blob/main/Docker%20Deep%20Dive%20Zero%20to%20Docker%20in%20a%20single%20book%20(Nigel%20Poulton)%20(z-lib.org).pdf)
-* [Docker_Up_and_Running.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Docker_Up_and_Running.pdf)
-* [Docker-in-Practice.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Docker-in-Practice.pdf)
-* [Docker QnA by Vijay](/Docker%20QnA%20vijay.pdf) 
-* [Docker Ebook](/Docker_eBook.pdf) 
-* [Dive into the Future of Infrastructure - K8s](/Dive%20into%20the%20Future%20of%20Infrastructure%20-%20K8s.pdf)
-* [DAY ONE - AMAZON WEB SERVICES](/DAY_ONE_AMAZON%20WEB%20SERVICES.pdf)
-* [Extending_Docker.pdf](Extending_Docker.pdf)
+* [DAY ONE: Amazon Web Services](/DAY_ONE_AMAZON%20WEB%20SERVICES.pdf)
+* [Deploy on AWS with GitLab](/Deploy%20on%20AWS-Gitlab.pdf)
+* [DevOps in Practice](/DevOps%20in%20Pratice.pdf)
+* [DevOps Document (Vinay Hegde)](/devops-document-vinay_hegde.pdf)
+* [The DevOps Handbook](/devops-handbook.pdf)
+* [DevOps Tools Guide](/Devops%20Tools%20Guide.pdf)
+* [Dive into the Future of Infrastructure — Kubernetes](/Dive%20into%20the%20Future%20of%20Infrastructure%20-%20K8s.pdf)
+* [Docker by Federico](/Docker%20by%20federico.pdf)
+* [Docker Cookbook](/Docker-Cookbook.pdf)
+* [Docker Deep Dive (Nigel Poulton)](/Docker%20Deep%20Dive%20Zero%20to%20Docker%20in%20a%20single%20book%20(Nigel%20Poulton)%20(z-lib.org).pdf)
+* [Docker eBook](/Docker_eBook.pdf)
+* [Docker in Practice](/Docker-in-Practice.pdf)
+* [Docker Q&A (Vijay)](/Docker%20QnA%20vijay.pdf)
+* [Docker: Up and Running](/Docker_Up_and_Running.pdf)
+
+### E
+
+* [Extending Docker](/Extending_Docker.pdf)
 
 ### G
 
-* [GIT Notes for Professionals](/GIT%20notes%20for%20professionals.pdf) 
-* [Github Cheatsheets](/GitHub.Git.Cheatsheet.pdf)
-* [Getting_Started_with_OpenShift.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Getting_Started_with_OpenShift.pdf)
+* [Getting Started with OpenShift](/Getting_Started_with_OpenShift.pdf)
+* [Git Interview Questions](/Git%20Interview%20Questions.pdf)
+* [Git Notes for Professionals](/GIT%20notes%20for%20professionals.pdf)
+* [GitHub Git Cheat Sheet](/GitHub.Git.Cheatsheet.pdf)
 
 ### H
-* [Helm 101: Tame the chaos of your Kubernetes apps with Helm charts](https://media-exp1.licdn.com/dms/document/C4D1FAQEvLyiTpuYr2w/feedshare-document-pdf-analyzed/0/1660668656459?e=1661385600&v=beta&t=geS4gxgn7EsIPjARpLj4l6CcLmMXIhKkth8RbcaE26c)
+
+* [Hands-On Kubernetes with Azure](/Hands%20On%20Kubernetes%20with%20Azure.pdf)
 
 ### I
 
-* [IaC Thales](/IaC%20Thales.pdf) 
-* [IaC Terraform](/IaC_Terraform.pdf) 
-* [IBM Agile Dummies](/IBM%20Agile%20Dummies.pdf)
+* [IaC (Thales)](/IaC%20Thales.pdf)
+* [IaC with Terraform](/IaC_Terraform.pdf)
+* [IBM Agile for Dummies](/IBM%20Agile%20Dummies.pdf)
+* [Important DevOps Interview Questions](/Important%20DevOps%20Interview%20Questions.pdf)
 * [Implementing DevOps on AWS (2017)](/Implementing_DevOps_on_AWS_(2017).PDF)
-* [Intro to Docker and Swarm - Vikram](/Intro%20to%20Docker%20and%20Swarm%20-%20Vikram.pdf)
-* [Implementing_OpenShift.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Implementing_OpenShift.pdf)
+* [Implementing OpenShift](/Implementing_OpenShift.pdf)
+* [Intro to Docker and Swarm (Vikram)](/Intro%20to%20Docker%20and%20Swarm%20-%20Vikram.pdf)
 
 ### J
 
@@ -102,80 +159,115 @@ Initially created by [Rohit Ghumare](https://github.com/rohitg00/) on [Twitter](
 
 ### K
 
-* [K8s Muhamad Eiemam](/K8s_muhamad_eiemam.pdf)
-* [k8s cheat sheet](/Kubernetes%20Cheat%20Sheet.pdf)
-* [k8s for every one](/Kubernetes%20For%20Everyone.pdf)
+* [Kubernetes (Muhammad Eiemam)](/K8s_muhamad_eiemam.pdf)
+* [Kubernetes Cheat Sheet](/Kubernetes%20Cheat%20Sheet.pdf)
+* [Kubernetes For Everyone](/Kubernetes%20For%20Everyone.pdf)
 
 ### L
 
-* [Learning Docker](/Learning%20Docker.pdf) 
-* [Learning Groovy](/Learning%20Groovy.pdf) 
-* [Learning_Docker_Networking.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Learning_Docker_Networking.pdf)
-* [Learning_OpenShift.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Learning_OpenShift.pdf)
-* [Linux Command Line and Shell Scripting Bible by Richard Blum](/2020712201111807Richard_Blum%2C_Christine_Bresnahan.pdf)
-* [Linux Command Line and Shell Scripting Bible by Wiley](/Wiley.Linux.Command.Line.and.Shell.Scripting.Bible.May.2008.pdf)
-* [Linux Handbook](https://sourceforge.net/projects/linuxcommand/files/TLCL/19.01/TLCL-19.01.pdf/download)
-* [Linux Shell Scripting Cookbook.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/Books/Linux%20Shell%20Scripting%20Cookbook.pdf)
-* [Load Balancing in the Cloud](/Load%20balancing%20in%20th%20cloud.pdf) 
+* [Learning Docker](/Learning%20Docker.pdf)
+* [Learning Docker Networking](/Learning_Docker_Networking.pdf)
+* [Learning Groovy](/Learning%20Groovy.pdf)
+* [Learning OpenShift](/Learning_OpenShift.pdf)
+* [Linux Command Line and Shell Scripting Bible (Blum & Bresnahan)](/2020712201111807Richard_Blum%2C_Christine_Bresnahan.pdf)
+* [Linux Command Line and Shell Scripting Bible (Wiley, 2008)](/Wiley.Linux.Command.Line.and.Shell.Scripting.Bible.May.2008.pdf)
+* [Linux Shell Scripting Cookbook](/Linux%20Shell%20Scripting%20Cookbook.pdf)
+* [Load Balancing in the Cloud](/Load%20balancing%20in%20th%20cloud.pdf)
 
 ### M
 
-* [Making the most of Helm](/Making%20the%20most%20of%20helm.pdf)
-* [Mastering Nginx.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Mastering%20Nginx.pdf) 
-* [Monitoring_Docker.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Monitoring_Docker.pdf)
-* [Microservers Dell](/Microservices_dell.pdf) 
+* [Making the Most of Helm](/Making%20the%20most%20of%20helm.pdf)
+* [Mastering Nginx](/Mastering%20Nginx.pdf)
+* [Microservices (Dell)](/microservices_dell.pdf)
+* [Monitoring Docker](/Monitoring_Docker.pdf)
 
 ### N
 
-* [Nginx Essentials.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Nginx%20Essentials.pdf)
-* [Nginx Module Extension.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Nginx%20Module%20Extension.pdf)
+* [Nginx Essentials](/Nginx%20Essentials.pdf)
+* [Nginx Module Extension](/Nginx%20Module%20Extension.pdf)
 
 ### O
 
-* [O'Reilly An Introduction to Cloud Databases](https://media-exp1.licdn.com/dms/document/C4D1FAQGi94BbMABNLw/feedshare-document-pdf-analyzed/0/1661090973570?e=1661990400&v=beta&t=R3ZNMec8rbU67lyw1wePYcnJm2wsjHkSxfBP2_1yYbY)
-* [O'Reilly Kubernetes Up and Running](/O'Reilly%20Kubernetes%20Up%20and%20Running.pdf)
-* [O'Reilly Kubernetes Patterns](/O'Reilly%20Kubernetes%20Up%20and%20Running.pdf)
-* [O'Reilly Software Architecture Patterns](https://media-exp1.licdn.com/dms/document/C4D1FAQFXDNSQk3PSsA/feedshare-document-pdf-analyzed/0/1660642832168?e=1661385600&v=beta&t=LW46s1riQcdMGqRlyT04FtUYJ1PTlwXvhNtkEyAoQq8)
-* [O’Reilly Kubernetes patterns for designing cloud-native apps](https://red.ht/3LeB1Vb)
-* [OpenShift_in_Action.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/OpenShift_in_Action.pdf)
-* [Orchestrating_Docker.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Orchestrating_Docker.pdf)
-* [O'Reilly Cloud Native DevOps with Kubernetes]([label](Cloud%20Native%20Devops%20with%20Kubernetes.pdf))
+* [O'Reilly Kubernetes Patterns](/O'Reilly%20Kubernetes%20Patterns.pdf)
+* [O'Reilly Kubernetes: Up and Running](/O'Reilly%20Kubernetes%20Up%20and%20Running.pdf)
+* [OpenShift in Action](/OpenShift_in_Action.pdf)
+* [Orchestrating Docker](/Orchestrating_Docker.pdf)
 
 ### P
 
-* [Practical DevOps](/Practical%20DevOps.pdf) 
-* [Pro Bash Programming.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Pro%20Bash%20Programming.pdf)
-* [Pro_Docker.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Pro_Docker.pdf)
-* [Python for Cloud](/Python%20for%20cloud.pdf) 
-* [Python for DevOps - Learn Ruthlessly Effective Automation Original](/python-for-devops-learn-ruthlessly-effective-automation-original-retailnbsped-149205769x-978-1492057697.pdf)
-* [PythonNotesForProfessionals](/PythonNotesForProfessionals.pdf)
-* [Practice 250 Questions For Terraform Associate Certification](https://media-exp1.licdn.com/dms/document/C4D1FAQF60GW8Wzx5Gg/feedshare-document-pdf-analyzed/0/1661091052718?e=1661990400&v=beta&t=CWQn8jnj_qPJcg8jFp-aqAk1sj3I2Dz3tc_ZcQYn4Zw)
-
+* [Practical DevOps](/Practical%20DevOps.pdf)
+* [Pro Bash Programming](/Pro%20Bash%20Programming.pdf)
+* [Pro Docker](/Pro_Docker.pdf)
+* [Python for Cloud](/Python%20for%20cloud.pdf)
+* [Python for DevOps](/python-for-devops-learn-ruthlessly-effective-automation-original-retailnbsped-149205769x-978-1492057697.pdf)
+* [Python Notes for Professionals](/PythonNotesForProfessionals.pdf)
 
 ### S
 
-* [Securing_Docker.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Securing_Docker.pdf)
-* [Security Practices EKS](/Security%20Practices%20EKS.pdf) 
-* [Shell Scripting.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Shell%20Scripting.pdf)
-* [Site Reliability Engineering](/Site%20Reliability%20Engineering.pdf) 
-* [State of Devops 2021](/State%20of%20DevOps%202021.pdf) 
-* [SWE Book by Alex Xu](https://abseil.io/resources/swe-book)
+* [Securing Docker](/Securing_Docker.pdf)
+* [Security Practices for EKS](/Security%20Practices%20EKS.pdf)
+* [Shell Scripting](/Shell%20Scripting.pdf)
+* [Site Reliability Engineering](/Site%20Reliability%20Engineering.pdf)
+* [State of DevOps 2021](/State%20of%20DevOps%202021.pdf)
 
 ### T
 
-* [Terraform](/Terraform.pdf) 
-* [Terraform CLI Cheatsheet - 1](/1622257225661.pdf)
-* [Terrafprm CLI Cheatsheet - 2](/terraform-cheatsheet-1.pdf)
-* [The Definitive Kubectl Cheatsheet](/the-definitive-kubectl-cheatsheet)
-* [The NewStack CI CD](/TheNewStack_CI_CD.pdf) 
+* [Terraform](/Terraform.pdf)
+* [Terraform CLI Cheat Sheet (1)](/1622257225661.pdf)
+* [Terraform CLI Cheat Sheet (2)](/terraform-cheatsheet-1.pdf)
+* [The Definitive kubectl Cheat Sheet](/the-definitive-kubectl-cheatsheet.pdf)
 * [The Kubernetes Book (Nigel Poulton)](/The%20Kubernetes%20Book%20(Nigel%20Poulton)%20(z-lib.org).pdf)
-* [Top 200 Questions Devops](/Top%20200%20questions%20DevOps.pdf) 
-* [Using_Docker.pdf](https://github.com/Krishnamohan-Yerrabilli/DevOps_Books/blob/main/Using_Docker.pdf)
- 
+* [The New Stack: CI/CD](/TheNewStack_CI_CD.pdf)
+* [Top 200 DevOps Questions](/Top%20200%20questions%20DevOps.pdf)
+
+### U
+
+* [Using Docker](/Using_Docker.pdf)
+
 ### W
 
-* [Wavestone Devops](/Wavestone%20devops.pdf) 
+* [Wavestone DevOps](/wavestone%20devops.pdf)
 
-## Thanks
+---
 
-<!-- GitAds-Verify: KA1YQJIFORSYEVSMHJQAQ8AXVQLKBNRU -->
+## 🔗 Recommended free & official resources
+
+A few high-quality DevOps resources that are **officially free** to read — a
+good template for the kind of links we want to grow this list with:
+
+* [Site Reliability Engineering](https://sre.google/books/) — the full SRE
+  books, free to read online from Google.
+* [The Kubernetes Documentation](https://kubernetes.io/docs/home/) — official
+  and comprehensive.
+* [Docker Documentation](https://docs.docker.com/) — official.
+* [Terraform Documentation](https://developer.hashicorp.com/terraform/docs) —
+  official.
+* [The Linux Command Line (William Shotts)](https://linuxcommand.org/tlcl.php)
+  — free under a Creative Commons license.
+* [Pro Git](https://git-scm.com/book) — free and open-licensed.
+
+---
+
+## 🛑 Takedown / DMCA notice
+
+We respect the rights of authors and publishers. If you are a rights holder (or
+their agent) and you believe a file or link in this repository infringes your
+copyright, please **[open an issue](../../issues)** (or contact the repository
+owner through their GitHub profile) with:
+
+1. Identification of the copyrighted work.
+2. The file name or link in this repository that you're referring to.
+3. A statement that you are the rights holder or authorized to act for them.
+
+We will remove the reported material promptly, no questions asked.
+
+---
+
+## 📜 License & Attribution
+
+* Repository files (docs, scripts): **Apache-2.0** — see [`LICENSE`](./LICENSE).
+* Each linked book/resource remains under **its own copyright and license**.
+
+This repository is a community fork. The original project was created by
+[Rohit Ghumare](https://github.com/rohitg00/). Thanks to everyone who has
+contributed resources and improvements. ❤️
